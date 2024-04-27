@@ -55,7 +55,7 @@ Clone the repository to your local machine:
 git clone ....
 cd GoDBSniffer
 
-go build -o godbsniffer
+go build
 
 
 Runing the Application
